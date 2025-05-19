@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+  <!-- Your employee records will be here -->
+  <employee>
+    <id>1</id>
+    <firstname>Roven Angelo</firstname>
+    <lastname>Gallo</lastname>
+    <age>23</age>
+    <gender>Male</gender>
+    <position>Software Developer</position>
+    <department>CICT</department>
+    <email>gallorovenangelo@gmail.com</email>
+    <phone>09663084698</phone>
+    <address>Barihan, Malolos, Bulacan</address>
+    <emergency_contact>Jahmien Borja</emergency_contact>
+    <password>1234</password>
+    <image>covers/1_1747514695_c4f5d890-cda8-42d1-a068-865d446aa699.jpg</image>
+  </employee>
+<employee><id>2</id><firstname>Jericho</firstname><lastname>Bayag</lastname><age>69</age><gender>Male</gender><position>Dogstyle</position><department>tite</department><email>ivan@gmail.com</email><phone>09123456789</phone><address>tite</address><emergency_contact>WALA</emergency_contact><password>1234</password><image>covers/2_1747577560_a35d615c-efe3-42d9-b6fd-b4708d9a60b0.jpg</image></employee></employees>

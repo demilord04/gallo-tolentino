@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sessions>
+  <!-- Session history will be stored here -->
+  <session>
+    <employee_id>1</employee_id>
+    <action>Login</action>
+    <timestamp>2025-05-18 11:13:39</timestamp>
+  </session>
+  <session>
+    <employee_id>1</employee_id>
+    <action>Logout</action>
+    <timestamp>2025-05-18 17:15:00</timestamp>
+  </session>
+  <session>
+    <employee_id>1</employee_id>
+    <action>Login</action>
+    <timestamp>2025-05-18 17:17:07</timestamp>
+  </session>
+  <session>
+    <employee_id>1</employee_id>
+    <action>Logout</action>
+    <timestamp>2025-05-18 17:17:08</timestamp>
+  </session>
+  <session>
+    <employee_id>1</employee_id>
+    <action>Login</action>
+    <timestamp>2025-05-18 17:22:42</timestamp>
+  </session>
+  <session>
+    <employee_id>1</employee_id>
+    <action>Logout</action>
+    <timestamp>2025-05-18 17:23:36</timestamp>
+  </session>
+  <session>
+    <employee_id>1</employee_id>
+    <action>Login</action>
+    <timestamp>2025-05-18 17:32:18</timestamp>
+  </session>
+  <session>
+    <employee_id>1</employee_id>
+    <action>Login</action>
+    <timestamp>2025-05-18 22:11:05</timestamp>
+  </session>
+  <session>
+    <employee_id>1</employee_id>
+    <action>Logout</action>
+    <timestamp>2025-05-18 22:11:52</timestamp>
+  </session>
+  <session>
+    <employee_id>2</employee_id>
+    <action>Login</action>
+    <timestamp>2025-05-18 22:12:54</timestamp>
+  </session>
+  <session>
+    <employee_id>2</employee_id>
+    <action>Logout</action>
+    <timestamp>2025-05-18 22:13:09</timestamp>
+  </session>
+  <session>
+    <employee_id>2</employee_id>
+    <action>Login</action>
+    <timestamp>2025-05-18 22:13:43</timestamp>
+  </session>
+  <session>
+    <employee_id>2</employee_id>
+    <action>Logout</action>
+    <timestamp>2025-05-18 22:13:47</timestamp>
+  </session>
+  <session>
+    <employee_id>2</employee_id>
+    <action>Login</action>
+    <timestamp>2025-05-18 22:13:52</timestamp>
+  </session>
+  <session>
+    <employee_id>2</employee_id>
+    <action>Logout</action>
+    <timestamp>2025-05-18 22:13:56</timestamp>
+  </session>
+  <session>
+    <employee_id>1</employee_id>
+    <action>Login</action>
+    <timestamp>2025-05-18 22:15:40</timestamp>
+  </session>
+  <session>
+    <employee_id>1</employee_id>
+    <action>Logout</action>
+    <timestamp>2025-05-18 22:15:50</timestamp>
+  </session>
+  <session>
+    <employee_id>1</employee_id>
+    <action>Login</action>
+    <timestamp>2025-05-20 00:25:33</timestamp>
+  </session>
+  <session>
+    <employee_id>1</employee_id>
+    <action>Logout</action>
+    <timestamp>2025-05-20 00:25:45</timestamp>
+  </session>
+</sessions>
