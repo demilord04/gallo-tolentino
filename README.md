@@ -18,20 +18,18 @@ This is a web-based Employee Management System that allows employees to manage t
 ## System Access
 
 ### Employee Access
-1. Visit `index.html` to start
-2. Click "Go to Login Page" to access the login screen
-3. Login with your Employee ID and password
-4. New employees can sign up through the "Sign Up" link
+1. Visit `index.php` to start. 
+2. Login with your Employee ID and password
+3. New employees can sign up through the "Sign Up" link
 
 ### Admin Access
-1. Go to the login page (`index2.php`)
+1. Go to the login page (`index.php`)
 2. Click on the "Employee Login" header 5 times
 3. This will redirect you to the admin login page
 4. Login with admin credentials
 
 ## File Structure
-- `index.html` - Landing page
-- `index2.php` - Main login page
+- `index.php` - Landing page
 - `dashboard.php` - Employee dashboard
 - `admin_login.php` - Admin login page
 - `admin_dashboard.php` - Admin control panel
@@ -59,7 +57,6 @@ This is a web-based Employee Management System that allows employees to manage t
 
 ## Directory Structure
 ```
-├── index.html
 ├── index2.php
 ├── dashboard.php
 ├── admin_login.php
@@ -86,7 +83,7 @@ This is a web-based Employee Management System that allows employees to manage t
 
 ## Admin Access Instructions
 To access the admin panel:
-1. Go to the main login page
+1. Go to the index page (login page) 
 2. Click on the "Employee Login" header exactly 5 times
 3. You will be redirected to the admin login page
 4. Enter admin credentials to access the admin dashboard
